@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Repositorios\\PlantelRugbyInfantil_AsistenciaWeb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8A4510-D8B0-4B57-BC1E-69BA8AA88CB2}|PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb.csproj|d:\\repositorios\\plantelrugbyinfantil_asistenciaweb\\plantelrugbyinfantil_asistenciaweb\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9E8A4510-D8B0-4B57-BC1E-69BA8AA88CB2}|PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb.csproj|solutionrelative:plantelrugbyinfantil_asistenciaweb\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8A4510-D8B0-4B57-BC1E-69BA8AA88CB2}|PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb.csproj|d:\\repositorios\\plantelrugbyinfantil_asistenciaweb\\plantelrugbyinfantil_asistenciaweb\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9E8A4510-D8B0-4B57-BC1E-69BA8AA88CB2}|PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb.csproj|solutionrelative:plantelrugbyinfantil_asistenciaweb\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{db388bf8-d8ab-4d02-9b1c-0ad37b3db1b0}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\Repositorios\\PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "PlantelRugbyInfantil_AsistenciaWeb\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\Repositorios\\PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb\\Components\\Pages\\Home.razor*",
+              "RelativeToolTip": "PlantelRugbyInfantil_AsistenciaWeb\\Components\\Pages\\Home.razor*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-09T19:57:48.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "app.css",
+              "DocumentMoniker": "D:\\Repositorios\\PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb\\wwwroot\\app.css",
+              "RelativeDocumentMoniker": "PlantelRugbyInfantil_AsistenciaWeb\\wwwroot\\app.css",
+              "ToolTip": "D:\\Repositorios\\PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb\\wwwroot\\app.css",
+              "RelativeToolTip": "PlantelRugbyInfantil_AsistenciaWeb\\wwwroot\\app.css",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAIwDoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-09T19:58:31.267Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PlantelRugbyInfantil_AsistenciaWeb.props" />
+</Project>

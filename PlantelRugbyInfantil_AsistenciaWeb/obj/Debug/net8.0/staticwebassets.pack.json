@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Repositorios\\PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PlantelRugbyInfantil_AsistenciaWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PlantelRugbyInfantil_AsistenciaWeb.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Repositorios\\PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PlantelRugbyInfantil_AsistenciaWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PlantelRugbyInfantil_AsistenciaWeb.props",
+      "PackagePath": "build\\PlantelRugbyInfantil_AsistenciaWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PlantelRugbyInfantil_AsistenciaWeb.props",
+      "PackagePath": "buildMultiTargeting\\PlantelRugbyInfantil_AsistenciaWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PlantelRugbyInfantil_AsistenciaWeb.props",
+      "PackagePath": "buildTransitive\\PlantelRugbyInfantil_AsistenciaWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
