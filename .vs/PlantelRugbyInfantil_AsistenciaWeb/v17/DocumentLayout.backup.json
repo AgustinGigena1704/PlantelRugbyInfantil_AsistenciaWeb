@@ -42,12 +42,11 @@
               "Title": "Home.razor",
               "DocumentMoniker": "D:\\Repositorios\\PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "PlantelRugbyInfantil_AsistenciaWeb\\Components\\Pages\\Home.razor",
-              "ToolTip": "D:\\Repositorios\\PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb\\Components\\Pages\\Home.razor*",
-              "RelativeToolTip": "PlantelRugbyInfantil_AsistenciaWeb\\Components\\Pages\\Home.razor*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAYwA8AAAAgAAAAAAAAAA==",
+              "ToolTip": "D:\\Repositorios\\PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "PlantelRugbyInfantil_AsistenciaWeb\\Components\\Pages\\Home.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-09T19:57:48.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-09T19:57:48.656Z"
             },
             {
               "$type": "Document",
@@ -57,7 +56,7 @@
               "RelativeDocumentMoniker": "PlantelRugbyInfantil_AsistenciaWeb\\wwwroot\\app.css",
               "ToolTip": "D:\\Repositorios\\PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb\\wwwroot\\app.css",
               "RelativeToolTip": "PlantelRugbyInfantil_AsistenciaWeb\\wwwroot\\app.css",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAIwDoAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAADQAAAAAAAAAAAAIwEcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-11-09T19:58:31.267Z",
               "EditorCaption": ""

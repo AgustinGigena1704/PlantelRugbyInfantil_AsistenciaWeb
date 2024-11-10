@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\Repositorios\\PlantelRugbyInfantil_AsistenciaWeb\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9E8A4510-D8B0-4B57-BC1E-69BA8AA88CB2}|PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb.csproj|d:\\repositorios\\plantelrugbyinfantil_asistenciaweb\\plantelrugbyinfantil_asistenciaweb\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{9E8A4510-D8B0-4B57-BC1E-69BA8AA88CB2}|PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb.csproj|solutionrelative:plantelrugbyinfantil_asistenciaweb\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{9E8A4510-D8B0-4B57-BC1E-69BA8AA88CB2}|PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb.csproj|d:\\repositorios\\plantelrugbyinfantil_asistenciaweb\\plantelrugbyinfantil_asistenciaweb\\bll\\entrenamientobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8A4510-D8B0-4B57-BC1E-69BA8AA88CB2}|PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb.csproj|solutionrelative:plantelrugbyinfantil_asistenciaweb\\bll\\entrenamientobll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8A4510-D8B0-4B57-BC1E-69BA8AA88CB2}|PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb.csproj|d:\\repositorios\\plantelrugbyinfantil_asistenciaweb\\plantelrugbyinfantil_asistenciaweb\\bll\\jugadorbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8A4510-D8B0-4B57-BC1E-69BA8AA88CB2}|PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb.csproj|solutionrelative:plantelrugbyinfantil_asistenciaweb\\bll\\jugadorbll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8A4510-D8B0-4B57-BC1E-69BA8AA88CB2}|PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb.csproj|d:\\repositorios\\plantelrugbyinfantil_asistenciaweb\\plantelrugbyinfantil_asistenciaweb\\dal\\jugadoresdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E8A4510-D8B0-4B57-BC1E-69BA8AA88CB2}|PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb.csproj|solutionrelative:plantelrugbyinfantil_asistenciaweb\\dal\\jugadoresdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9E8A4510-D8B0-4B57-BC1E-69BA8AA88CB2}|PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb.csproj|d:\\repositorios\\plantelrugbyinfantil_asistenciaweb\\plantelrugbyinfantil_asistenciaweb\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9E8A4510-D8B0-4B57-BC1E-69BA8AA88CB2}|PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb.csproj|solutionrelative:plantelrugbyinfantil_asistenciaweb\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E8A4510-D8B0-4B57-BC1E-69BA8AA88CB2}|PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb.csproj|d:\\repositorios\\plantelrugbyinfantil_asistenciaweb\\plantelrugbyinfantil_asistenciaweb\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{9E8A4510-D8B0-4B57-BC1E-69BA8AA88CB2}|PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb.csproj|solutionrelative:plantelrugbyinfantil_asistenciaweb\\wwwroot\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,26 +50,65 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EntrenamientoBLL.cs",
+              "DocumentMoniker": "D:\\Repositorios\\PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb\\BLL\\EntrenamientoBLL.cs",
+              "RelativeDocumentMoniker": "PlantelRugbyInfantil_AsistenciaWeb\\BLL\\EntrenamientoBLL.cs",
+              "ToolTip": "D:\\Repositorios\\PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb\\BLL\\EntrenamientoBLL.cs",
+              "RelativeToolTip": "PlantelRugbyInfantil_AsistenciaWeb\\BLL\\EntrenamientoBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:55:23.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "JugadorBLL.cs",
+              "DocumentMoniker": "D:\\Repositorios\\PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb\\BLL\\JugadorBLL.cs",
+              "RelativeDocumentMoniker": "PlantelRugbyInfantil_AsistenciaWeb\\BLL\\JugadorBLL.cs",
+              "ToolTip": "D:\\Repositorios\\PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb\\BLL\\JugadorBLL.cs",
+              "RelativeToolTip": "PlantelRugbyInfantil_AsistenciaWeb\\BLL\\JugadorBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:53:27.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JugadoresDAL.cs",
+              "DocumentMoniker": "D:\\Repositorios\\PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb\\DAL\\JugadoresDAL.cs",
+              "RelativeDocumentMoniker": "PlantelRugbyInfantil_AsistenciaWeb\\DAL\\JugadoresDAL.cs",
+              "ToolTip": "D:\\Repositorios\\PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb\\DAL\\JugadoresDAL.cs",
+              "RelativeToolTip": "PlantelRugbyInfantil_AsistenciaWeb\\DAL\\JugadoresDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-09T20:52:03.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Home.razor",
               "DocumentMoniker": "D:\\Repositorios\\PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb\\Components\\Pages\\Home.razor",
               "RelativeDocumentMoniker": "PlantelRugbyInfantil_AsistenciaWeb\\Components\\Pages\\Home.razor",
               "ToolTip": "D:\\Repositorios\\PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb\\Components\\Pages\\Home.razor",
               "RelativeToolTip": "PlantelRugbyInfantil_AsistenciaWeb\\Components\\Pages\\Home.razor",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAYwAoAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-11-09T19:57:48.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "app.css",
               "DocumentMoniker": "D:\\Repositorios\\PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb\\wwwroot\\app.css",
               "RelativeDocumentMoniker": "PlantelRugbyInfantil_AsistenciaWeb\\wwwroot\\app.css",
               "ToolTip": "D:\\Repositorios\\PlantelRugbyInfantil_AsistenciaWeb\\PlantelRugbyInfantil_AsistenciaWeb\\wwwroot\\app.css",
               "RelativeToolTip": "PlantelRugbyInfantil_AsistenciaWeb\\wwwroot\\app.css",
-              "ViewState": "AgIAADQAAAAAAAAAAAAIwEEAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAIwEYAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-11-09T19:58:31.267Z",
               "EditorCaption": ""

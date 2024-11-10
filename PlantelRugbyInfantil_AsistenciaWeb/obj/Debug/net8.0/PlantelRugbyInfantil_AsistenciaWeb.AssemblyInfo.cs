@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PlantelRugbyInfantil_AsistenciaWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e1c52c753c8a6e0c761c007bf9aa938165d8d61d")]
 [assembly: System.Reflection.AssemblyProductAttribute("PlantelRugbyInfantil_AsistenciaWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PlantelRugbyInfantil_AsistenciaWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
